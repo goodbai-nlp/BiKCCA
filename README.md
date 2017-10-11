@@ -17,7 +17,7 @@ Improving Vector Space Word Representations Via Kernel Canonical Correlation Ana
 
 - [x] [p6]In section 4, the authors discuss 3 tasks to evaluate the quality of the induced cross-lingual word embeddings with the corresponding datasets. Again, in section 5.1, the  datasets are explained again with slightly more detail. Please organize these two parts more focus and briefly. It would be nice to see more discussion about the differences between datasets.
 
-- [ ] [p7]In Table 3, En-L2, why BiKCCA have improvements over BiCCA in all the language except French? The authors should provide explanations.
+- [x] [p7]In Table 3, En-L2, why BiKCCA have improvements over BiCCA in all the language except French? The authors should provide explanations.
 
 - [x] [p8]In Table 4, how about the scores of (overly, 过于) and (notice, 注意) ？
 
