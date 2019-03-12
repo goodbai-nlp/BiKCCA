@@ -59,7 +59,7 @@ def GetTrain(src_dico, src_full,tgt_dico, tgt_full,tgt_word,src_word):
             src_train.append(src_full[src_idx])
             tgt_train.append(tgt_full[tgt_idx])
 
-        if len(src_train)==500:
+        if len(src_train)==7000:  # 7000 seeds for training
             break
 
     assert len(src_train) == len(tgt_train)
