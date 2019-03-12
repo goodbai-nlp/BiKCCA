@@ -55,9 +55,9 @@ class KCCA(object):
 
     def kcca(self,Kx,Ky):
         '''
-        计算投影向量 
-        :param Kx: 核矩阵 Kx
-        :param Ky: 核矩阵 Ky
+        calculating two mappins
+        :param Kx: kernel matrix Kx
+        :param Ky: kernel matrix Ky
         :return: alpha,beta,corrs
         '''
         I = self.regular * np.identity(self.Kx.shape[0])
