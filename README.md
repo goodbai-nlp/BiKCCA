@@ -15,7 +15,7 @@ This software runs python 3.6 with the following libraries:
 ```
     python train.py -slang $src_lang -tlang $tgt_lang -semb $src_path -temb $tgt_path -d $dict_path -reg 0.3  -g1 0.001  -g2 0.001
 ```
-  The `reg`, `g1` and `g2` are hyperparameters of KCCA, which can be tuned on valid dataset.
+    The `reg`, `g1` and `g2` are hyperparameters of KCCA, which can be tuned on valid dataset.
 
 3. The resulted bilingual word embeddings will be stored at directory `output/src_lang-tgt_lang/`
 
