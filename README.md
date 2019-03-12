@@ -1,12 +1,12 @@
 # BiKCCA
-Code for our paper "Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis" in TALLIP [pdf](https://dl.acm.org/citation.cfm?id=3197566)
+Code for our paper "Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis" in TALLIP [[pdf]](https://dl.acm.org/citation.cfm?id=3197566)
 ## Setup
 
 ## Get start
 
 ## References
 Please cite Learning [Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis](https://dl.acm.org/citation.cfm?id=3197566) if you found the resources in this repository useful.
-``
+```
   @article{Bai:2018:IVS:3229525.3197566,
    author = {Bai, Xuefeng and Cao, Hailong and Zhao, Tiejun},
    title = {Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis},
@@ -24,4 +24,4 @@ Please cite Learning [Improving Vector Space Word Representations Via Kernel Can
    publisher = {ACM},
    address = {New York, NY, USA}
   } 
-``
+```
