@@ -19,7 +19,7 @@ The `reg`, `g1` and `g2` are hyperparameters of KCCA, which can be tuned on vali
 
 3. The resulted bilingual word embeddings will be stored at directory `output/src_lang-tgt_lang/`
 
-4. To evaluate the bilingual word embeddings, please refered to code of this [work](https://github.com/shyamupa/biling-survey)
+4. To evaluate the bilingual word embeddings, please refer to the code of this [work](https://github.com/shyamupa/biling-survey)
 
 ## References
 Please cite Learning [Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis](https://dl.acm.org/citation.cfm?id=3197566) if you found the resources in this repository useful.
