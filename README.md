@@ -24,10 +24,10 @@ This software runs python 3.6 with the following libraries:
 ## References
 Please cite Learning [Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis](https://dl.acm.org/citation.cfm?id=3197566) if you found the resources in this repository useful.
 ```
-  @article{Bai:2018:IVS:3229525.3197566,
+  @article{BaiCZ-18-tallip,
    author = {Bai, Xuefeng and Cao, Hailong and Zhao, Tiejun},
    title = {Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis},
-   journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
+   journal = {ACM Transactions on Asian and Low-Resource Language Information Processing},
    issue_date = {August 2018},
    publisher = {ACM},
    address = {New York, NY, USA}
